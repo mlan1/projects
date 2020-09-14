@@ -1,0 +1,13 @@
+*.csv
+*.err
+*.png
+*.log
+*.pdf
+*.xlsx
+*.xls
+__pycache__/
+.ipynb_checkpoints/
+*.*~
+*.txt
+*.html
+files/
